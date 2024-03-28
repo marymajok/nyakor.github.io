@@ -1,0 +1,37 @@
+body{
+	display:flex;
+	align-items:center;
+	justify-content: center;
+	background-color:black;
+	font-family:calibri;
+	color:white;
+	font-family:sans-serif;
+	height: 100vh;
+}
+ button{
+	background:#39FF14;
+	text-decoration: none;
+	padding:10px;
+	color: black;
+	border:2px solid;
+	border-radius:5px;
+	margin: 4px;
+	width:230px;	
+}
+h1{
+	position:top;
+	text-align:center;
+	color:#39FF14;
+	font-family:sans-serif;
+}
+a{
+	text-align:center;
+	color:#39FF14;
+}
+input{
+	width:230px;
+	text-align:center;
+	background:#343434;
+	padding:10px;
+	color:white;
+}
